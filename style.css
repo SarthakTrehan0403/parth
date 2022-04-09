@@ -1,0 +1,39 @@
+body
+{
+	background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fbackgrounds%2Fapps&psig=AOvVaw2oOp8FeP0mIfFpZNpFUtI8&ust=1649572281493000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPDyxdathvcCFQAAAAAdAAAAABAD");
+}
+
+	.login_div1 , .login_div2
+	{
+		background:skyblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+width: 500px;
+height:80;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: pink;
+border-radius: 10px;
+border-top: 10px solid #8b455a;
+padding: 10px;
+float: none;
+height:80;
+text-align: left;
+}
